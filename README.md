@@ -1,2 +1,51 @@
 # FUTURE_CS_03
-API Security Risk Analysis (Modern SaaS Skill)
+##API Security Risk Analysis (Modern SaaS Skill)
+
+Perform a read-only API security assessment on a public demo API.
+## API Tested
+JSONPlaceholder API
+
+1.## Methodology
+- Documentation review
+- Endpoint testing
+- Header inspection
+- Risk classification using OWASP API Top 10
+2.## Scope of Assessment
+Item Details
+API Tested JSONPlaceholder Demo API
+API URL  https://jsonplaceholder.typicode.com
+Testing Type Read■Only Analysis
+Environment Public Demo API
+Ethical Scope Non■intrusive and compliant testing
+3.## Tools Used
+1 Postman – API request testing
+2 Browser DevTools – Header inspection
+3 JSON Viewer – Response analysis
+4 Documentation Review – Endpoint understanding
+## Outcome
+Identified authentication, authorization, and rate limiting risks with remediation recommendations.
+
+
+MIT License
+
+Copyright (c) 2026
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+
+
