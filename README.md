@@ -10,18 +10,20 @@ JSONPlaceholder API
 - Endpoint testing
 - Header inspection
 - Risk classification using OWASP API Top 10
+- 
 2.## Scope of Assessment
 Item Details
-API Tested JSONPlaceholder Demo API
-API URL  https://jsonplaceholder.typicode.com
-Testing Type Read■Only Analysis
-Environment Public Demo API
-Ethical Scope Non■intrusive and compliant testing
+- API Tested JSONPlaceholder Demo API
+- API URL  https://jsonplaceholder.typicode.com
+- Testing Type Read■Only Analysis
+- Environment Public Demo API
+- Ethical Scope Non■intrusive and compliant testing
+
 3.## Tools Used
-1 Postman – API request testing
-2 Browser DevTools – Header inspection
-3 JSON Viewer – Response analysis
-4 Documentation Review – Endpoint understanding
+ - Postman – API request testing
+ - Browser DevTools – Header inspection
+ - JSON Viewer – Response analysis
+ - Documentation Review – Endpoint understanding
 ## Outcome
 Identified authentication, authorization, and rate limiting risks with remediation recommendations.
 
